@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="BanqueEJB">
+    <output-path>$PROJECT_DIR$/out/artifacts/BanqueEJBrar</output-path>
+    <root id="archive" name="BanqueEJB.jar">
+      <element id="javaee-facet-resources" facet="BanqueEJB/ejb/EJB" />
+      <element id="module-output" name="BanqueEJB" />
+    </root>
+  </artifact>
+</component>

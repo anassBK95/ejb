@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BanqueWeb">
+    <output-path>$PROJECT_DIR$/out/artifacts/BanqueWeb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BanqueWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BanqueWeb" />
+          <element id="module-output" name="BanqueEJB" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="JPA 2.1-JPA 2.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

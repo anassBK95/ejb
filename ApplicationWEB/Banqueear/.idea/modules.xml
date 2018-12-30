@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BanqueEJB/BanqueEJB.iml" filepath="$PROJECT_DIR$/../BanqueEJB/BanqueEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BanqueWAR/BanqueWAR.iml" filepath="$PROJECT_DIR$/../BanqueWAR/BanqueWAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banqueear.iml" filepath="$PROJECT_DIR$/Banqueear.iml" />
+    </modules>
+  </component>
+</project>
